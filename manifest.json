@@ -19,6 +19,6 @@
     },
     "permissions": [
         "tabs",
-        "https://www.amazon.com/"
+        "https://www.amazon.com/*"
     ]
 }
